@@ -1,2 +1,1 @@
-# Parallel-Cloud-Computing-Project-
-Melbourne Tweets Analysis
+# Melbourne Tweets Analysis
